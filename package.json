@@ -1,6 +1,6 @@
 {
   "name": "comfyui-dev-utils",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "Execution Time Analysis, Reroute Enhancement, Remote Python Logs, For ComfyUI developers.",
   "main": "src/index.js",
   "scripts": {
